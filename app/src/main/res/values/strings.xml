@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestApplicationUran</string>
+    <string name="modified_text">modified</string>
+    <string name="folder_empty">Folder is empty</string>
+    <string name="action">Action</string>
+    <string name="delete">Delete</string>
+    <string name="get_permalink">Get permalink</string>
+    <string name="set_as_favorite">Set as favorite</string>
+</resources>
